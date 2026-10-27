@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=zh-mo:Luk;Kelvin
+FN:Kelvin Luk
+ORG;CHARSET=big5:Fortune Glory Limited;Cherry Group (綺麗集團)
+TITLE:Director of Fabric and Testing Compliance
+TEL;WORK;VOICE:+85229435205
+ADR;WORK;PREF;CHARSET=big5:;;Unit 4608-10, Metroplaza, Tower 2, Kwai Fong, 香港葵芳新都會廣場第2期46樓4608-10室;Hong Kong
+LABEL;WORK;PREF;CHARSET=big5:Hong KongUnit 4608-10, Metroplaza, Tower 2, Kwai Fong, 香港葵芳新都會廣場第2期46樓4608-10室
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
+EMAIL;PREF;INTERNET:kelvin.luk@fortunegloryhk.com
+END:VCARD
